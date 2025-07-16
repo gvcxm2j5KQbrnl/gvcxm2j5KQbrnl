@@ -1,6 +1,6 @@
 ## hi, my socials
 
-<p align="left">
+<p align="center">
   <a href="https://tryhackme.com/p/taww" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/taww.png"alt="thm badge"/></a>
 </p>
