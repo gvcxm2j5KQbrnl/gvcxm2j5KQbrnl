@@ -17,6 +17,6 @@
 &nbsp; &nbsp; &nbsp;
 <p align="left">
   <a href="https://discord.com/users/428575537917722625" target="_blank">
-    <img src="https://github.com/user-attachments/assets/32fb9caa-21c3-4ddb-9a9b-0ea52c56ed36" />
+    <img src="https://github.com/user-attachments/assets/32fb9caa-21c3-4ddb-9a9b-0ea52c56ed36" width="20" alt="discord" />
   </a>
 </p>
