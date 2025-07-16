@@ -4,7 +4,7 @@
   <a href="https://tryhackme.com/p/taww" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/taww.png"alt="thm badge"/></a>
 </p>
-<p align="center">
+<p align="right">
   <a href="https://discord.com/users/428575537917722625" target="_blank">
     <img src="https://github.com/user-attachments/assets/32fb9caa-21c3-4ddb-9a9b-0ea52c56ed36" width="20" alt="discord"/></a>
   
