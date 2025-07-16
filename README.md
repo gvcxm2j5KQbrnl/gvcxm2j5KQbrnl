@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">hi, my socials</h2>
+## hi, my socials
 
 <p align="left">
   <a href="https://tryhackme.com/p/taww" target="_blank">
