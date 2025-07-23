@@ -12,6 +12,5 @@
   src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"
   unselectable="on"
   width="20" 
-  alt="arch" 
-  style="vertical-align: middle;" 
+  alt="arch"
 />
