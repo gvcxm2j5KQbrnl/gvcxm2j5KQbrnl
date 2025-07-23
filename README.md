@@ -13,8 +13,8 @@
   alt="arch"
   width="20" 
 />
-<img 
-  src="https://code.hyprland.org/assets/img/logo.png"
+<img
+src="https://github.com/user-attachments/assets/469592c3-64d2-4338-8ab3-fb7259a20738"
   alt="hyprland"
   width="20" 
 />
