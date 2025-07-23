@@ -9,5 +9,6 @@
   
   <a href="https://steamcommunity.com/id/tyu/" target="_blank">
     <img src="https://github.com/user-attachments/assets/cdfc895f-9366-47f3-b5a3-b6a2e8fa0b50" width="20" alt="steam"/></a>  
-    
-    <a <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" width="20" alt="arch"/></a>
+
+  <a target="_blank">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" width="20" alt="arch"/></a>
