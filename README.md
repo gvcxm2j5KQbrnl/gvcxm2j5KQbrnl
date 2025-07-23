@@ -11,8 +11,10 @@
 <img 
   src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"
   alt="arch"
+  width="20" 
 />
 <img 
   src="https://code.hyprland.org/assets/img/logo.png"
   alt="hyprland"
+  width="20" 
 />
