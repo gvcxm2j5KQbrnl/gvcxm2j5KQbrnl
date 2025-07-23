@@ -16,5 +16,5 @@
 <img
 src="https://github.com/user-attachments/assets/469592c3-64d2-4338-8ab3-fb7259a20738"
   alt="hyprland"
-  width="20" 
+  width="16" 
 />
