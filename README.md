@@ -8,8 +8,9 @@
     <img src="https://github.com/user-attachments/assets/32fb9caa-21c3-4ddb-9a9b-0ea52c56ed36" width="20" alt="discord"/></a>
   <a href="https://steamcommunity.com/id/tyu/" target="_blank">
     <img src="https://github.com/user-attachments/assets/cdfc895f-9366-47f3-b5a3-b6a2e8fa0b50" width="20" alt="steam"/></a>
-  <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" 
-    width="20" 
-    alt="arch" 
-    style="vertical-align: middle;"/></p>
+<img 
+  src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" 
+  width="20" 
+  alt="arch" 
+  style="vertical-align: middle;" 
+/>
