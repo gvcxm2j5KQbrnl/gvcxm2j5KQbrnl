@@ -13,4 +13,5 @@
   width="20" 
   alt="arch" 
   style="vertical-align: middle;" 
+  pointer-events: none
 />
