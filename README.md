@@ -14,7 +14,7 @@
   width="20" 
 />
 <img
-src="https://imgur.com/a/ODlmBVs"
+src="https://github.com/user-attachments/assets/0f6ae301-a74c-4fe9-a03c-df5ce5599436"
   alt="hyprland"
   width="20" 
 />
