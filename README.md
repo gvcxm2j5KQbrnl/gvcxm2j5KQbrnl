@@ -16,5 +16,5 @@
 <img
 src="https://code.hyprland.org/assets/img/logo.png"
   alt="hyprland"
-  width="20" 
+  width="35" 
 />
