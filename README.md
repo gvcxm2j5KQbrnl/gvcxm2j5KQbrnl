@@ -1,5 +1,5 @@
 ## hi 👋 
-## my socials
+# my socials
 
 <p align="left">
   <a href="https://tryhackme.com/p/taww" target="_blank">
