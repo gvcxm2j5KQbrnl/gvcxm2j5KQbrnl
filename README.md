@@ -1,4 +1,4 @@
-## hi, my socials 👋
+## hi 👋 my (relevant) socials 
 
 <p align="left">
   <a href="https://tryhackme.com/p/taww" target="_blank">
